@@ -95,7 +95,7 @@ It is one of the most used Linux commands by system admins as it lets them repla
 # Funny Linux Commands to Explore When Bored
 A lot of funny Linux commands are available to make your time in front of the terminal exciting. These terminal commands are funny in a way that they do things no one would imagine them to do. We highly encourage you to play with such funny Linux commands as they’ll redeem your boredom while providing deep insights into the Unix philosophy.
 
-funny linux commands
+## funny linux commands
 
 ### 27. cal
 Did you know Unix provides a handy little calendar tool right into the terminal? The cal command is one of those funny Linux commands that shows you the calendar in an ASCII text format. Type this command with parameters like month and year to get specified information right into the terminal.
