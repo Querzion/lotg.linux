@@ -28,10 +28,10 @@ Contrary to Windows, whenever you plug in an SD card or a USB, chances are your 
 ### 8. df
 The df command is one of the most empowering Linux terminal commands that display essential information about the disk space on your filesystem. It is used widely by system administrators to monitor and analyze real-time server or network-oriented systems.
 
-## Linux Commands for Manipulating the System
+# Linux Commands for Manipulating the System
 System commands are essential to gain information about your Linux system. A significant number of powerful Linux commands are at your disposal for this task. Below we’re presenting a few to get you started.
 
-# Terminal Commands for Manipulating the System
+## Terminal Commands for Manipulating the System
 
 ### 9. uname
 The uname command is an elementary Linux command for obtaining system information like name, version, and other system-specific details. You can quickly check your OS and kernel version with this command and can know for sure the instruction length of your machine.
